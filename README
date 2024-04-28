@@ -5,3 +5,6 @@ Prerequisites
 NVIDIA GPU with CUDA support
 NVIDIA DeepStream SDK
 GStreamer
+
+Usage
+Go to source/apps/sample_apps/line_of_fire and follow the steps given in readme.
